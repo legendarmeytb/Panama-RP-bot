@@ -3,7 +3,7 @@ const fs = require('fs')
 const client = new Discord.Client()
 let prefix = "!"
 
-client.login(process.env.TOKEN);
+client.login(process.env.NjY3NzMzMzg0NjU0NzQ5NzE3.Xiy9uQ.vAWo9ixE-Cc6ulmjY6XFYasVMxA);
  
 const warns = JSON.parse(fs.readFileSync('./warns.json'))
 
